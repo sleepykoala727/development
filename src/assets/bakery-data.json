@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Home",
+    "description": "oil on canvas, 5'x5'",
+    "price": 70.99,
+    "image": "images/home.jpg",
+    "size": "large"
+  },
+  {
+    "name": "Ferris Wheel",
+    "description": "oil on canvas, 4'x3'",
+    "price": 64.99,
+    "image": "images/ferriswheel.jpg",
+    "size": "large"
+
+  },
+  {
+    "name": "Family Dinner",
+    "description": "oil on canvas, 5'x4'",
+    "price": 69.99,
+    "image": "images/familydinner.jpg",
+    "size": "large"
+  },
+  {
+    "name": "Mind Palace",
+    "description": "oil on canvas, 5'x4'",
+    "price": 55.99,
+    "image": "images/mindpalace.jpg",
+    "size": "large"
+  },
+  {
+    "name": "Atoll 1",
+    "description": "acrylic on paper, 3'x1.75'",
+    "price": 44.99,
+    "image": "images/atoll.jpg",
+    "size": "medium"
+  },
+  {
+    "name": "Atoll 2 (diptych)",
+    "description": "charcoal on paper, ",
+    "price": 24.99,
+    "image": "images/atoll charcoal.jpg",
+    "size": "medium"
+  },
+  {
+    "name": "Untitled (diptych)",
+    "description": "ink on paper, 8.5\"x11\"",
+    "price": 19.99,
+    "image": "images/dip.png",
+    "size": "small"
+  },
+  {
+    "name": "劉綺華 (redacted)",
+    "description": "ink on paper, 8.5\"x11\"",
+    "price": 15.99,
+    "image": "images/name.jpg",
+    "size": "small"
+  },
+  {
+    "name": "Tunnel",
+    "description": "oil on canvas, 5'x4'",
+    "price": 46.99,
+    "image": "images/tunnel.jpg",
+    "size": "large"
+  },
+  {
+    "name": "Rust",
+    "description": "gouach on paper, 4.5\"x5.5\"",
+    "price": 32.99,
+    "image": "images/rust.jpg",
+    "size": "medium"
+  },
+  {
+    "name": "Flower Ladies",
+    "description": "gouach on paper, 2.5'x2'",
+    "price": 13.99,
+    "image": "images/flowerladies.jpg",
+    "size": "medium"
+  },
+  {
+    "name": "Suburbs",
+    "description": "gouach on paper, 4.5\"x5.5\"",
+    "price": 12.99,
+    "image": "images/suburbs.jpg",
+    "size": "small"
+  }
+]
